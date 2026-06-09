@@ -1,5 +1,4 @@
 {
-    "resources": [
         {
             "id": 1,
             "name": "InnoZ Resorts",
@@ -10000,5 +9999,5 @@
             "image": "https://images.pexels.com/photos/159213/hall-congress-architecture-building-159213.jpeg",
             "available": true
         }
-    ]
+    
 }
